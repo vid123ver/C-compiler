@@ -1,0 +1,8 @@
+{
+  "files.associations": {
+    "*.ejs": "html",
+    "random": "cpp",
+    "queue": "cpp",
+    "stack": "cpp"
+  }
+}
